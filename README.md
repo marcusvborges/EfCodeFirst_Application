@@ -1,6 +1,6 @@
-# Web AP Entity Framework (Code First)
+# Web API Entity Framework (Code First)
 
-Trata-se de um CRUD básico para cadastro de usuários utilizando o Entity Framework - Code First, para o mapeamento das entidades com o banco de dados do SQL Server.
+Trata-se de um CRUD básico para cadastro de usuários utilizando o Entity Framework Code First, para o mapeamento das entidades com o banco de dados do SQL Server.
 
 ## Tecnologias Utilizadas
 
