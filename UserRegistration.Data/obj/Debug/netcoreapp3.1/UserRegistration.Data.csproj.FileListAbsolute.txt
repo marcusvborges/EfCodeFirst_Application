@@ -1,0 +1,15 @@
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Data.deps.json
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Data.runtimeconfig.json
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Data.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Data.dll
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Data.pdb
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Entities.dll
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\bin\Debug\netcoreapp3.1\UserRegistration.Entities.pdb
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.AssemblyInfo.cs
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.dll
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.pdb
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Data\obj\Debug\netcoreapp3.1\UserRegistration.Data.genruntimeconfig.cache

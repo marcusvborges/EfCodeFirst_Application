@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\bin\Debug\netcoreapp3.1\UserRegistration.Entities.deps.json
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\bin\Debug\netcoreapp3.1\UserRegistration.Entities.runtimeconfig.json
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\bin\Debug\netcoreapp3.1\UserRegistration.Entities.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\bin\Debug\netcoreapp3.1\UserRegistration.Entities.dll
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\bin\Debug\netcoreapp3.1\UserRegistration.Entities.pdb
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.AssemblyInfo.cs
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.dll
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.pdb
+C:\Users\marcu\source\repos\EfCodeFirst_Application\UserRegistration.Models\obj\Debug\netcoreapp3.1\UserRegistration.Entities.genruntimeconfig.cache
